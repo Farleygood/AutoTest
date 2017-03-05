@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding='utf-8' ?>
+<DataDriven>
+    <test1>测试登录51cto</test1>
+        <login1 username="61998@qq.com" passwd="xxxx"/>
+        <login2 username="xxxxx@qq.com" passwd="xxxddd"/>
+    <test2>测试发布博客</test2>
+        <publish1 ID="1" title="测试blog1" content="这是博客第一行/n这是博客第二行" lable="这是测试博客"/>
+        <publish2 ID="2" title="测试blog2" content="这是博客第一行/r/n这是博客第二行" lable="海洋奇遇"/>
+</DataDriven>

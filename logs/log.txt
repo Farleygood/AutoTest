@@ -1,0 +1,284 @@
+2016-12-22 17:51:54,684 allTests.py[line: 10] ERROR: this is test
+2016-12-22 17:57:31,344 allTests.py[line: 10] ERROR: this is test
+2016-12-22 17:58:44,976 allTests.py[line: 10] ERROR: this is test
+2016-12-22 17:58:46,621 allTests.py[line: 10] ERROR: this is test
+2016-12-22 17:58:50,302 allTests.py[line: 10] ERROR: this is test
+2016-12-27 10:18:41,621 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 10:18:41,783 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 13:41:21,707 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 13:41:21,868 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 14:27:19,111 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 14:27:19,276 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 14:27:37,032 testfarmer.py[line: 23] INFO: 执行test__001
+2016-12-27 14:28:14,351 testfarmer.py[line: 28] INFO: 执行test__002
+2016-12-27 14:28:27,769 testfarmer.py[line: 33] INFO: 执行test__003
+2016-12-27 14:30:47,257 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 14:30:47,421 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 14:30:58,704 testfarmer.py[line: 23] INFO: 执行test__001
+2016-12-27 14:31:10,703 testfarmer.py[line: 28] INFO: 执行test__002
+2016-12-27 14:31:24,079 testfarmer.py[line: 33] INFO: 执行test__003
+2016-12-27 14:32:55,365 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 14:32:55,535 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 14:33:05,490 testfarmer.py[line: 23] INFO: 执行test__001
+2016-12-27 14:33:20,730 testfarmer.py[line: 28] INFO: 执行test__002
+2016-12-27 14:33:41,128 testfarmer.py[line: 33] INFO: 执行test__003
+2016-12-27 14:40:55,559 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 14:40:55,721 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 14:41:14,325 testfarmer.py[line: 23] INFO: 执行test__001
+2016-12-27 14:41:27,145 testfarmer.py[line: 28] INFO: 执行test__002
+2016-12-27 14:41:53,651 testfarmer.py[line: 33] INFO: 执行test__003
+2016-12-27 14:41:53,651 testfarmer.py[line: 35] INFO: 获取当前的浏览器句柄
+2016-12-27 14:42:06,710 testfarmer.py[line: 40] INFO: 获取所有的浏览器句柄
+2016-12-27 14:42:06,713 testfarmer.py[line: 44] INFO: 切换到登录页面。
+2016-12-27 14:44:45,638 testfarmer.py[line: 23] INFO: 执行test__001
+2016-12-27 14:44:59,503 testfarmer.py[line: 28] INFO: 执行test__002
+2016-12-27 14:45:17,957 testfarmer.py[line: 33] INFO: 执行test__003
+2016-12-27 14:45:17,957 testfarmer.py[line: 35] INFO: 获取当前的浏览器句柄
+2016-12-27 14:45:31,015 testfarmer.py[line: 40] INFO: 获取所有的浏览器句柄
+2016-12-27 14:45:31,019 testfarmer.py[line: 44] INFO: 切换到登录页面。
+2016-12-27 14:48:14,493 testfarmer.py[line: 23] INFO: 执行test__001
+2016-12-27 14:48:32,595 testfarmer.py[line: 28] INFO: 执行test__002
+2016-12-27 14:48:47,410 testfarmer.py[line: 33] INFO: 执行test__003
+2016-12-27 14:48:47,410 testfarmer.py[line: 35] INFO: 获取当前的浏览器句柄
+2016-12-27 14:49:02,147 testfarmer.py[line: 40] INFO: 获取所有的浏览器句柄
+2016-12-27 14:50:46,151 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 14:50:46,318 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 14:51:03,069 testfarmer.py[line: 23] INFO: 执行test__001
+2016-12-27 14:51:18,456 testfarmer.py[line: 28] INFO: 执行test__002
+2016-12-27 14:51:35,082 testfarmer.py[line: 33] INFO: 执行test__003
+2016-12-27 14:51:35,084 testfarmer.py[line: 35] INFO: 获取当前的浏览器句柄
+2016-12-27 14:51:50,736 testfarmer.py[line: 40] INFO: 获取所有的浏览器句柄
+2016-12-27 14:56:56,176 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 14:56:56,338 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 14:57:11,790 testfarmer.py[line: 23] INFO: 执行test__001
+2016-12-27 14:57:29,753 testfarmer.py[line: 28] INFO: 执行test__002
+2016-12-27 14:57:51,858 testfarmer.py[line: 33] INFO: 执行test__003
+2016-12-27 14:57:51,858 testfarmer.py[line: 35] INFO: 获取当前的浏览器句柄
+2016-12-27 14:58:09,266 testfarmer.py[line: 40] INFO: 获取所有的浏览器句柄
+2016-12-27 15:00:10,236 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 15:00:10,401 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 15:00:30,533 testfarmer.py[line: 25] INFO: 执行test__001
+2016-12-27 15:00:45,496 testfarmer.py[line: 31] INFO: 执行test__002
+2016-12-27 15:00:58,973 testfarmer.py[line: 37] INFO: 执行test__003
+2016-12-27 15:00:58,973 testfarmer.py[line: 38] INFO: 获取当前的浏览器句柄
+2016-12-27 15:01:12,746 testfarmer.py[line: 43] INFO: 获取所有的浏览器句柄
+2016-12-27 15:04:14,048 testfarmer.py[line: 25] INFO: 执行test__001
+2016-12-27 15:04:42,128 testfarmer.py[line: 31] INFO: 执行test__002
+2016-12-27 15:05:17,503 testfarmer.py[line: 37] INFO: 执行test__003
+2016-12-27 15:05:17,505 testfarmer.py[line: 38] INFO: 获取当前的浏览器句柄
+2016-12-27 15:05:34,846 testfarmer.py[line: 43] INFO: 获取所有的浏览器句柄
+2016-12-27 15:08:06,578 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 15:08:06,744 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 15:08:17,049 testfarmer.py[line: 25] INFO: 执行test__001
+2016-12-27 15:08:38,082 testfarmer.py[line: 31] INFO: 执行test__002
+2016-12-27 15:09:05,306 testfarmer.py[line: 36] INFO: 执行test__003
+2016-12-27 15:09:05,306 testfarmer.py[line: 37] INFO: 获取当前的浏览器句柄
+2016-12-27 15:09:22,121 testfarmer.py[line: 42] INFO: 获取所有的浏览器句柄
+2016-12-27 15:10:29,615 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 15:10:29,782 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 15:10:49,398 testfarmer.py[line: 25] INFO: 执行test__001
+2016-12-27 15:11:03,769 testfarmer.py[line: 31] INFO: 执行test__002
+2016-12-27 15:11:23,075 testfarmer.py[line: 36] INFO: 执行test__003
+2016-12-27 15:12:04,183 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 15:12:04,345 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 15:12:20,967 testfarmer.py[line: 25] INFO: 执行test__001
+2016-12-27 15:12:34,575 testfarmer.py[line: 31] INFO: 执行test__002
+2016-12-27 15:12:55,795 testfarmer.py[line: 36] INFO: 执行test__003
+2016-12-27 15:19:34,417 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 15:19:34,420 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 15:20:31,769 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 15:20:31,770 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 15:21:42,762 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 15:21:42,931 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 15:22:05,697 testfarmer.py[line: 25] INFO: 执行test__001
+2016-12-27 15:22:27,124 testfarmer.py[line: 31] INFO: 执行test__002
+2016-12-27 15:27:18,928 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 15:27:19,095 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 15:27:42,032 testfarmer.py[line: 25] INFO: 执行test__001
+2016-12-27 15:28:04,573 testfarmer.py[line: 31] INFO: 执行test__002
+2016-12-27 15:29:21,513 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 15:29:21,678 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 15:29:31,589 testfarmer.py[line: 25] INFO: 执行test__001
+2016-12-27 15:29:53,223 testfarmer.py[line: 31] INFO: 执行test__002
+2016-12-27 15:30:16,454 testfarmer.py[line: 36] INFO: 执行test__003
+2016-12-27 15:40:40,431 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 15:40:40,596 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 15:40:51,200 testfarmer.py[line: 24] INFO: 执行test__001
+2016-12-27 15:41:15,051 testfarmer.py[line: 29] INFO: 执行test__002
+2016-12-27 15:42:00,528 testfarmer.py[line: 34] INFO: 执行test__003
+2016-12-27 18:09:41,773 alltest.py[line: 15] INFO: this is run suite
+2016-12-27 18:09:41,941 testfarmer.py[line: 32] INFO: 跳过用例test__003
+2016-12-27 18:09:41,941 alltest.py[line: 21] INFO: this is run suite done
+2016-12-27 18:09:49,799 testfarmer.py[line: 24] INFO: 执行test__001
+2016-12-27 18:10:00,733 testfarmer.py[line: 29] INFO: 执行test__002
+2017-01-03 15:35:58,913 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 15:35:59,130 testfarmer.py[line: 32] INFO: 跳过用例test__003
+2017-01-03 15:35:59,131 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 15:36:22,842 testfarmer.py[line: 24] INFO: 执行test__001
+2017-01-03 15:37:18,992 testfarmer.py[line: 29] INFO: 执行test__002
+2017-01-03 15:39:24,690 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 15:39:24,900 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 15:49:16,391 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 15:49:16,595 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 15:49:37,306 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 15:49:41,687 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 15:49:52,394 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 15:50:01,575 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 15:54:38,036 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 15:55:15,765 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 15:56:25,967 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 15:56:26,181 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 15:56:32,884 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 15:57:07,178 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 16:04:00,953 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 16:04:01,154 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 16:04:19,411 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 16:04:31,566 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 16:10:02,045 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 16:10:02,255 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 16:10:15,180 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 16:10:32,349 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 17:03:48,155 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 17:03:48,328 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 17:03:58,361 testfarmer.py[line: 24] INFO: 执行test__001
+2017-01-03 17:04:11,575 testfarmer.py[line: 29] INFO: 执行test__002
+2017-01-03 20:45:16,671 test.py[line: 7] INFO: this is test
+2017-01-03 20:45:35,131 test.py[line: 7] INFO: this is test
+2017-01-03 20:46:16,421 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 20:46:16,589 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 20:48:50,200 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 20:48:50,298 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 21:08:49,559 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 21:08:49,700 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 21:12:26,160 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 21:12:26,273 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 21:22:44,638 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 21:22:44,775 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 21:25:51,891 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 21:25:52,013 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 21:29:36,872 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 21:29:36,990 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 21:30:50,155 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 21:30:50,272 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 21:33:10,878 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 21:33:10,994 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 21:34:22,986 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 21:34:23,098 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 21:35:20,118 test_cto.py[line: 26] INFO: 登录成功！
+2017-01-03 21:36:45,540 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 21:36:45,667 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 21:52:03,051 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 21:52:03,154 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 21:52:24,546 test_cto.py[line: 26] INFO: 登录成功！
+2017-01-03 21:54:36,193 allTests.py[line: 15] INFO: this is run suite
+2017-01-03 21:54:36,312 allTests.py[line: 21] INFO: this is run suite done
+2017-01-03 21:54:56,888 test_cto.py[line: 26] INFO: 登录成功！
+2017-03-04 15:32:59,749 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 15:33:00,756 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 15:37:36,618 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 15:37:36,710 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 15:42:52,713 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 15:42:52,796 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 15:43:19,173 test_cto.py[line: 28] INFO: 登录成功！
+2017-03-04 15:44:54,431 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 15:44:54,515 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 15:46:56,591 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 15:46:56,670 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 15:48:49,302 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 15:48:49,384 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 15:57:35,759 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 15:57:35,841 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 15:58:00,706 test_cto.py[line: 29] INFO: 登录成功！
+2017-03-04 15:59:27,953 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 15:59:28,039 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 16:01:18,984 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 16:01:19,154 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 16:01:45,059 test_cto.py[line: 29] INFO: 登录成功！
+2017-03-04 16:05:51,016 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 16:05:51,101 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 16:06:15,687 test_cto.py[line: 29] INFO: 登录成功！
+2017-03-04 16:08:50,624 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 16:08:50,710 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 16:09:18,628 test_cto.py[line: 29] INFO: 登录成功！
+2017-03-04 17:46:06,150 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 17:46:06,289 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 17:46:35,283 test_cto.py[line: 29] INFO: 登录成功！
+2017-03-04 17:47:02,812 test_cto.py[line: 41] INFO: 登录失败，账户/密码错误！
+2017-03-04 21:30:18,956 testfarmer.py[line: 32] INFO: 跳过用例test__003
+2017-03-04 21:34:25,763 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 21:34:25,947 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 21:35:08,484 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 21:35:08,571 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 21:36:18,244 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 21:36:18,328 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 21:36:57,069 test_cto.py[line: 29] INFO: 登录成功！
+2017-03-04 21:37:27,135 test_cto.py[line: 41] INFO: 登录失败，账户/密码错误！
+2017-03-04 21:40:27,012 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 21:40:27,099 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 21:41:06,809 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 21:41:06,892 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 21:43:26,354 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 21:43:26,443 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 22:36:12,552 allTests.py[line: 15] INFO: this is run suite
+2017-03-04 22:36:12,641 allTests.py[line: 21] INFO: this is run suite done
+2017-03-04 22:36:41,798 test_cto.py[line: 29] INFO: 登录成功！
+2017-03-04 22:37:13,224 test_cto.py[line: 41] INFO: 登录失败，账户/密码错误！
+2017-03-04 22:40:47,898 test_publishbg.py[line: 30] INFO: 正在登陆...
+2017-03-04 22:40:56,361 test_publishbg.py[line: 32] INFO: 正在发布博客
+2017-03-04 22:41:30,051 test_publishbg.py[line: 30] INFO: 正在登陆...
+2017-03-04 22:41:38,519 test_publishbg.py[line: 32] INFO: 正在发布博客
+2017-03-04 22:42:35,174 test_publishbg.py[line: 30] INFO: 正在登陆...
+2017-03-04 22:42:43,552 test_publishbg.py[line: 32] INFO: 正在发布博客
+2017-03-04 23:06:42,582 testfarmer.py[line: 32] INFO: 跳过用例test__003
+2017-03-04 23:20:00,503 testfarmer.py[line: 32] INFO: 跳过用例test__003
+2017-03-04 23:22:19,151 testfarmer.py[line: 32] INFO: 跳过用例test__003
+2017-03-04 23:29:17,900 testfarmer.py[line: 33] INFO: 跳过用例test__003
+2017-03-04 23:36:02,214 testfarmer.py[line: 33] INFO: 跳过用例test__003
+2017-03-04 23:38:33,003 test_publishbg.py[line: 30] INFO: 正在登陆...
+2017-03-04 23:38:41,388 test_publishbg.py[line: 32] INFO: 正在发布博客
+2017-03-04 23:39:00,556 test_publishbg.py[line: 30] INFO: 正在登陆...
+2017-03-04 23:45:08,686 test_publishbg.py[line: 30] INFO: 正在登陆...
+2017-03-04 23:45:17,089 test_publishbg.py[line: 32] INFO: 正在发布博客
+2017-03-04 23:45:51,102 test_publishbg.py[line: 30] INFO: 正在登陆...
+2017-03-04 23:45:59,459 test_publishbg.py[line: 32] INFO: 正在发布博客
+2017-03-04 23:50:15,611 test_publishbg.py[line: 30] INFO: 正在登陆...
+2017-03-04 23:50:24,039 test_publishbg.py[line: 32] INFO: 正在发布博客
+2017-03-04 23:51:01,180 test_publishbg.py[line: 30] INFO: 正在登陆...
+2017-03-04 23:51:09,575 test_publishbg.py[line: 32] INFO: 正在发布博客
+2017-03-05 00:19:11,690 test_publishbg.py[line: 30] INFO: 正在登陆...
+2017-03-05 00:19:20,107 test_publishbg.py[line: 32] INFO: 正在发布博客
+2017-03-05 00:19:56,819 test_publishbg.py[line: 30] INFO: 正在登陆...
+2017-03-05 00:20:05,187 test_publishbg.py[line: 32] INFO: 正在发布博客
+2017-03-05 16:51:13,247 test_publishbg.py[line: 30] INFO: 正在登陆...
+2017-03-05 16:51:21,628 test_publishbg.py[line: 32] INFO: 正在发布博客
+2017-03-05 16:52:14,552 test_publishbg.py[line: 30] INFO: 正在登陆...
+2017-03-05 16:52:22,957 test_publishbg.py[line: 32] INFO: 正在发布博客
+2017-03-05 16:56:32,348 test_publishbg.py[line: 27] INFO: 正在登陆...
+2017-03-05 16:56:40,711 test_publishbg.py[line: 29] INFO: 正在发布博客
+2017-03-05 17:00:31,392 test_publishbg.py[line: 31] INFO: 正在登陆...
+2017-03-05 17:00:39,779 test_publishbg.py[line: 33] INFO: 正在发布博客
+2017-03-05 17:07:10,555 test_publishbg.py[line: 31] INFO: 正在登陆...
+2017-03-05 17:07:18,936 test_publishbg.py[line: 33] INFO: 正在发布博客
+2017-03-05 17:12:41,368 test_publishbg.py[line: 31] INFO: 正在登陆...
+2017-03-05 17:12:49,762 test_publishbg.py[line: 33] INFO: 正在发布博客
+2017-03-05 17:19:22,545 test_publishbg.py[line: 31] INFO: 正在登陆...
+2017-03-05 17:19:30,924 test_publishbg.py[line: 33] INFO: 正在发布博客
+2017-03-05 17:38:29,568 test_publishbg.py[line: 31] INFO: 正在登陆...
+2017-03-05 17:38:37,904 test_publishbg.py[line: 33] INFO: 正在发布博客
+2017-03-05 17:42:37,766 test_publishbg.py[line: 31] INFO: 正在登陆...
+2017-03-05 17:42:46,145 test_publishbg.py[line: 33] INFO: 正在发布博客
+2017-03-05 17:43:59,150 test_publishbg.py[line: 37] INFO: 博客发布成功
+2017-03-05 17:45:06,782 test_publishbg.py[line: 31] INFO: 正在登陆...
+2017-03-05 17:45:15,161 test_publishbg.py[line: 33] INFO: 正在发布博客
+2017-03-05 17:49:48,305 test_publishbg.py[line: 31] INFO: 正在登陆...
+2017-03-05 17:49:56,723 test_publishbg.py[line: 33] INFO: 正在发布博客
+2017-03-05 17:53:31,815 allTests.py[line: 15] INFO: this is run suite
+2017-03-05 17:53:31,937 allTests.py[line: 21] INFO: this is run suite done
+2017-03-05 17:54:00,030 test_cto.py[line: 29] INFO: 登录成功！
+2017-03-05 17:54:30,974 test_cto.py[line: 41] INFO: 登录失败，账户/密码错误！
+2017-03-05 17:54:43,918 test_publishbg.py[line: 31] INFO: 正在登陆...
+2017-03-05 17:54:52,289 test_publishbg.py[line: 33] INFO: 正在发布博客
+2017-03-05 17:56:09,595 test_publishbg.py[line: 37] INFO: 博客发布成功
+2017-03-05 17:56:21,680 test_publishbg.py[line: 31] INFO: 正在登陆...
+2017-03-05 17:56:30,069 test_publishbg.py[line: 33] INFO: 正在发布博客
+2017-03-05 17:57:50,690 test_publishbg.py[line: 37] INFO: 博客发布成功
