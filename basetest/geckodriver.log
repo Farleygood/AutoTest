@@ -1,0 +1,10 @@
+1482305216627	geckodriver	INFO	Listening on 127.0.0.1:6922
+1482305217124	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.sZRq9cw9hwh5
+1482305217128	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1482305217262	geckodriver::marionette	INFO	Connecting to Marionette on localhost:6928
+1482305219848	Marionette	INFO	Listening on port 6928
+1482305224116	Marionette	INFO	startBrowser b7962cc1-36d8-47a9-83a9-368ab4b17d35
+1482305224123	Marionette	INFO	sendAsync b7962cc1-36d8-47a9-83a9-368ab4b17d35
+1482305228388	Marionette	INFO	sendAsync b7962cc1-36d8-47a9-83a9-368ab4b17d35
+1482305228836	Marionette	INFO	sendAsync b7962cc1-36d8-47a9-83a9-368ab4b17d35
+1482305228844	Marionette	INFO	sendAsync b7962cc1-36d8-47a9-83a9-368ab4b17d35
